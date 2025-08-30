@@ -29,7 +29,6 @@ The aim is to explore customer segments, product categories, and sales trends to
 - Top product categories by revenue  
 - Discount vs total sales scatter plot  
 
-*(Insert PNG screenshots here)*
 
 ## 💡 Key Insights
 - Electronics & Fashion contribute the highest sales volume.
